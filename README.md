@@ -2,6 +2,8 @@
  With this app you can save your game state progress in the cloud using Dropbox.
 This was created quickly so that I could play Pokemon and transition from my phone to my computer more conveniently. Bugs can appear on some devices, especially on phones and other consoles other than 3ds and nds.
 
+
+
 ---
 
 ## How to get Refresh Token
@@ -45,6 +47,8 @@ Tutorial taken from [Dropbox Forums](https://www.dropboxforum.com/t5/Dropbox-API
 ## How to get Client Secret and ID
 
 You can get Client ID and Client Secret [App Console](https://www.dropbox.com/developers/apps)
+
+<sub>Your data is saved locally!</sub>
 
 ---
 
